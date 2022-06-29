@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lAVvpBkdGm+4HvzsEgLLq1cR8sntpPAW10vpXChTHT1f+l5c0q/rASkE+LGT6TcZkpxJKsfzM5QTxfWtt/Z2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\NetworkSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmalovitzki\\.nuget\\packages\\ironxl.excel\\2022.6.6825\\ironxl.excel.2022.6.6825.nupkg.sha512"
+  ],
+  "logs": []
+}

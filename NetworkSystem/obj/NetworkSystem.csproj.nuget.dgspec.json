@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\NetworkSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\NetworkSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\NetworkSystem.csproj",
+        "projectName": "NetworkSystem",
+        "projectPath": "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\NetworkSystem.csproj",
+        "packagesPath": "C:\\Users\\pmalovitzki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pmalovitzki\\source\\repos\\NetworkSystem\\NetworkSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pmalovitzki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2022.6.6825, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
